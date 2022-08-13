@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=3EF739&center=true&vCenter=true&width=440&height=80&lines=Hello+there!;My+name+is+zephir0;Welcome+to+my+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&width=435&lines=Hello+there!;It's+zephir0;Welcome+to+my+github)](https://git.io/typing-svg)
 
 # 💫 About Me:
 My name is zephir0 and I'm glad you have finally discovered my github profile<br>
