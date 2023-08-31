@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=63F73F&center=true&vCenter=true&width=435&height=60&lines=Hi+there!;It's+zephir0;Welcome+to+my+github)](https://git.io/typing-svg)
 
-# 💫 About Me:
-My name is zephir0 and I'm glad you have finally discovered my github profile<br>
+I'm glad you have finally discovered my github profile.<br>
 
 
 ## 🌐 Socials:
