@@ -1,19 +1,29 @@
-name: Generate Snake Animation
+# ╔══════════════════════════════════════════════════════════╗
+# ║  ░▒▓ SNAKE.EXE — CONTRIBUTION DEVOURER ▓▒░             ║
+# ║  Matrix Profile Automation :: Platane/snk              ║
+# ║  "In the Matrix, even contributions get eaten" 🐍      ║
+# ╚══════════════════════════════════════════════════════════╝
+
+name: "🐍 [MATRIX] snake.exe --devour"
 
 on:
-  # Runs every 12 hours
+  # ├─ cron: reboot every 12h to keep the snake fed
   schedule:
     - cron: "0 */12 * * *"
-  # Allows manual trigger
+  # └─ manual override: wake the snake on demand
   workflow_dispatch:
 
 jobs:
-  generate:
+  devour-contributions:
+    name: "🐍 Deploying snake.exe"
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
-      - name: Generate Snake SVGs
+      # ─── PHASE 1: Generate snake SVGs ───
+      - name: "░▒▓ Generating snake animation ▓▒░"
         uses: Platane/snk@v3
         with:
           github_user_name: zephir0
@@ -21,7 +31,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Deploy to output branch
+      # ─── PHASE 2: Deploy to output branch ───
+      - name: "░▒▓ Deploying to [output] branch ▓▒░"
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

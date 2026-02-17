@@ -1,30 +1,42 @@
-name: 3D Contribution Calendar
+# ╔══════════════════════════════════════════════════════════╗
+# ║  ░▒▓ HOLOGRAM.EXE — 3D CONTRIBUTION MATRIX ▓▒░         ║
+# ║  Matrix Profile Automation :: 3D Contrib Calendar      ║
+# ║  "I can see the code... in three dimensions" 🧊        ║
+# ╚══════════════════════════════════════════════════════════╝
+
+name: "🧊 [MATRIX] hologram.exe --render-3d"
 
 on:
-  # Runs daily at 1:00 AM UTC
+  # ├─ cron: rebuild hologram daily at 01:00 UTC
   schedule:
     - cron: "0 1 * * *"
-  # Allows manual trigger
+  # └─ manual override: force render
   workflow_dispatch:
 
 jobs:
-  build:
+  render-hologram:
+    name: "🧊 Rendering 3D hologram"
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
-      - name: Checkout repository
+      # ─── PHASE 1: Clone the construct ───
+      - name: "░▒▓ Loading construct ▓▒░"
         uses: actions/checkout@v4
 
-      - name: Generate 3D contribution calendar
+      # ─── PHASE 2: Generate 3D contribution map ───
+      - name: "░▒▓ Rendering 3D contribution hologram ▓▒░"
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: zephir0
 
-      - name: Commit & Push generated files
+      # ─── PHASE 3: Commit to the Matrix ───
+      - name: "░▒▓ Committing hologram to mainframe ▓▒░"
         run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
           git add -A .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update 3D contribution calendar" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🧊 chore: hologram recalibrated" && git push)

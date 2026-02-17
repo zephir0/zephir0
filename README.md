@@ -26,10 +26,10 @@
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────┐
-│  ▶ LOADING MODULE: identity.daemon                   │
-│  ▶ STATUS: ACTIVE  │  PID: 1337  │  MEM: 42MB       │
-└──────────────────────────────────────────────────────┘
+[0x00FF41] ░▒▓ IDENTITY MODULE ▓▒░
+├─ proc/identity.daemon ─── ACTIVE
+├─ pid: 1337 | mem: 42MB | cpu: ██░░ 23%
+└─ uptime: 31337h ─── integrity: OK
 ```
 
 </div>
@@ -79,10 +79,10 @@ public class Zephir0 extends Developer {
 <!-- ═══════════════════════════════════════════════════════ -->
 
 ```
-┌──────────────────────────────────────────────────────┐
-│  ▶ ESTABLISHING NETWORK UPLINK...                    │
-│  ▶ NODES: 3  │  ENCRYPTION: AES-256  │  STATUS: OK  │
-└──────────────────────────────────────────────────────┘
+[0x00C0DE] ░▒▓ NETWORK UPLINK ▓▒░
+├─ route: nebuchadnezzar → zion
+├─ encryption: AES-256-GCM | latency: 3ms
+└─ nodes: 3 online ─── status: CONNECTED
 ```
 
 <a href="https://linkedin.com/in/krystianzzajac">
@@ -102,10 +102,10 @@ public class Zephir0 extends Developer {
 <!-- ═══════════════════════════════════════════════════════ -->
 
 ```
-┌──────────────────────────────────────────────────────┐
-│  ▶ SCANNING WEAPONS ARSENAL...                       │
-│  ▶ MODULES LOADED: 4  │  THREAT LEVEL: HIGH         │
-└──────────────────────────────────────────────────────┘
+[0xDEAD10] ░▒▓ WEAPONS ARSENAL ▓▒░
+├─ scan: /usr/lib/arsenal/* ─── 4 modules
+├─ threat.level: ████████████████░░ HIGH
+└─ status: ARMED ─── ready: true
 ```
 
 <!-- TECH STACK — 2×2 TABLE -->
@@ -189,18 +189,18 @@ public class Zephir0 extends Developer {
 <!-- ═══════════════════════════════════════════════════════ -->
 
 ```
-┌──────────────────────────────────────────────────────┐
-│  ▶ SYSTEM TELEMETRY: REAL-TIME FEED                  │
-│  ▶ UPTIME: 99.9%  │  COMMITS: LOADING...            │
-└──────────────────────────────────────────────────────┘
+[0xCAFE00] ░▒▓ SYSTEM TELEMETRY ▓▒░
+├─ feed: real-time | uptime: 99.97%
+├─ commits: ▁▂▃▅▆█▇▅▃▂▁▃▅█ streaming...
+└─ signal: STRONG ─── sync: OK
 ```
 
-<!-- STATS SIDE BY SIDE -->
+<!-- STATS — self-hosted via lowlighter/metrics -->
 <a href="https://github.com/zephir0">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zephir0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&ring_color=00FF41&border_color=0d1117" alt="Stats"/>
+  <img width="49%" src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/github-stats.svg" alt="Stats"/>
 </a>
 <a href="https://github.com/zephir0">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephir0&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00FF41&text_color=00FF41&border_color=0d1117&langs_count=8" alt="Top Langs"/>
+  <img width="49%" src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/languages.svg" alt="Top Langs"/>
 </a>
 
 <br>
@@ -212,8 +212,16 @@ public class Zephir0 extends Developer {
 
 <br>
 
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zephir0&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=003300&area=true&hide_border=true&custom_title=%E2%96%B6%20CONTRIBUTION%20FREQUENCY%20ANALYSIS&title_color=00FF41" width="97%" alt="Activity Graph"/>
+<!-- ACTIVITY — self-hosted via lowlighter/metrics -->
+<a href="https://github.com/zephir0">
+  <img src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/isocalendar.svg" width="70%" alt="Isocalendar"/>
+</a>
+
+<br>
+
+<a href="https://github.com/zephir0">
+  <img src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/habits.svg" width="49%" alt="Coding Habits"/>
+</a>
 
 <br>
 
@@ -230,13 +238,12 @@ public class Zephir0 extends Developer {
 <!-- ═══════════════════════════════════════════════════════ -->
 
 ```
-┌──────────────────────────────────────────────────────┐
-│  ▶ ACHIEVEMENT SYSTEM v2.0                           │
-│  ▶ UNLOCKED TROPHIES: LOADING...                     │
-└──────────────────────────────────────────────────────┘
+[0xACE000] ░▒▓ ACHIEVEMENT SYSTEM ▓▒░
+├─ version: 2.0 | trophies: UNLOCKING...
+└─ rank: ████████████████████ S-TIER
 ```
 
-<img src="https://github-profile-trophy.vercel.app/?username=zephir0&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=zephir0&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies"/>
 
 ---
 
@@ -245,10 +252,10 @@ public class Zephir0 extends Developer {
 <!-- ═══════════════════════════════════════════════════════ -->
 
 ```
-┌──────────────────────────────────────────────────────┐
-│  ▶ EXECUTING: snake.exe --eat-contributions          │
-│  ▶ MODE: AGGRESSIVE  │  TARGET: ALL COMMITS         │
-└──────────────────────────────────────────────────────┘
+[0x5C4E00] ░▒▓ SNAKE.EXE ▓▒░
+├─ $ ./snake --eat-contributions --mode=aggressive
+├─ target: ALL_COMMITS | hunger: ████████ MAX
+└─ 🐍 nom nom nom...
 ```
 
 <picture>
@@ -264,26 +271,27 @@ public class Zephir0 extends Developer {
 <!-- ═══════════════════════════════════════════════════════ -->
 
 ```
-┌──────────────────────────────────────────────────────┐
-│  ▶ METRICS DASHBOARD: ANALYTICS ENGINE               │
-│  ▶ DATA POINTS: AGGREGATING...                       │
-└──────────────────────────────────────────────────────┘
+[0xDA7A00] ░▒▓ METRICS DASHBOARD ▓▒░
+├─ engine: analytics v3.1 | mode: deep-scan
+├─ data: ▓▓▓▓▓▓▓▓░░ aggregating...
+└─ visualization: READY
 ```
 
+<!-- DASHBOARD CARDS — self-hosted via lowlighter/metrics -->
 <a href="https://github.com/zephir0">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zephir0&theme=github_dark" width="97%" alt="Profile Details"/>
+  <img src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/profile-details.svg" width="97%" alt="Profile Details"/>
 </a>
 
 <br>
 
 <a href="https://github.com/zephir0">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zephir0&theme=github_dark" width="32%" alt="Repos per Language"/>
+  <img src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/repos-per-language.svg" width="32%" alt="Repos per Language"/>
 </a>
 <a href="https://github.com/zephir0">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zephir0&theme=github_dark" width="32%" alt="Most Commit Language"/>
+  <img src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/commit-language.svg" width="32%" alt="Most Commit Language"/>
 </a>
 <a href="https://github.com/zephir0">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zephir0&theme=github_dark&utcOffset=1" width="32%" alt="Productive Time"/>
+  <img src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/productive-time.svg" width="32%" alt="Productive Time"/>
 </a>
 
 ---
@@ -293,9 +301,8 @@ public class Zephir0 extends Developer {
 <!-- ═══════════════════════════════════════════════════════ -->
 
 ```
-┌──────────────────────────────────────────────────────┐
-│  ▶ /dev/random --quote --source=matrix               │
-└──────────────────────────────────────────────────────┘
+[0xC0FFEE] ░▒▓ /dev/random ▓▒░
+└─ $ cat /dev/random | grep wisdom
 ```
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="70%" alt="Random Dev Quote"/>
