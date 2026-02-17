@@ -1,0 +1,45 @@
+# ╔══════════════════════════════════════════════════════════╗
+# ║  ░▒▓ DASHBOARD.EXE — PROFILE SUMMARY CARDS ▓▒░         ║
+# ║  Matrix Profile Automation :: Summary Cards            ║
+# ║  "Free your mind... and your profile stats" 📈         ║
+# ╚══════════════════════════════════════════════════════════╝
+
+name: "📈 [MATRIX] dashboard.exe --summarize"
+
+on:
+  # ├─ cron: regenerate dashboard every 12h (offset 30min from metrics)
+  schedule:
+    - cron: "30 */12 * * *"
+  # └─ manual override: force regeneration
+  workflow_dispatch:
+
+jobs:
+  generate-dashboard:
+    name: "📈 Generating dashboard cards"
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      # ─── PHASE 1: Clone the construct ───
+      - name: "░▒▓ Loading construct ▓▒░"
+        uses: actions/checkout@v4
+
+      # ─── PHASE 2: Generate all summary cards ───
+      - name: "░▒▓ Rendering dashboard cards ▓▒░"
+        uses: vn7n24fez6k/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: zephir0
+          BRANCH_NAME: main
+          UTC_OFFSET: 1
+
+      # ─── PHASE 3: Commit to the Matrix ───
+      - name: "░▒▓ Committing dashboard to mainframe ▓▒░"
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git add -A .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "📈 chore: dashboard recalibrated" && git push)

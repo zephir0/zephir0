@@ -1,0 +1,111 @@
+# ╔══════════════════════════════════════════════════════════╗
+# ║  ░▒▓ TELEMETRY.EXE — SYSTEM METRICS ENGINE ▓▒░         ║
+# ║  Matrix Profile Automation :: lowlighter/metrics       ║
+# ║  "I know kung fu... and your commit history" 📊        ║
+# ╚══════════════════════════════════════════════════════════╝
+
+name: "📡 [MATRIX] telemetry.exe --deep-scan"
+
+on:
+  # ├─ cron: scan telemetry every 12h
+  schedule:
+    - cron: "0 */12 * * *"
+  # └─ manual override: force scan
+  workflow_dispatch:
+
+jobs:
+  deep-scan-telemetry:
+    name: "📡 Running telemetry deep-scan"
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+      # ═══════════════════════════════════════════
+      # [0x00FF41] STATS CARD
+      # ├─ replaces: github-readme-stats
+      # └─ output:   metrics/github-stats.svg
+      # ═══════════════════════════════════════════
+      - name: "░▒▓ [0x01] Extracting system stats ▓▒░"
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: zephir0
+          filename: metrics/github-stats.svg
+          base: header, activity, community, repositories
+          base_indepth: yes
+          config_display: large
+          config_timezone: Europe/Warsaw
+          config_order: base.header, base.activity+community, base.repositories
+          extras_css: |
+            * { color: #00FF41 !important; }
+            h2 { color: #00FF41 !important; }
+            svg { background-color: #0d1117; }
+            .field { color: #00FF41 !important; }
+          plugin_notable: no
+
+      # ═══════════════════════════════════════════
+      # [0x00C0DE] LANGUAGES CHART
+      # ├─ replaces: github-readme-stats/top-langs
+      # └─ output:   metrics/languages.svg
+      # ═══════════════════════════════════════════
+      - name: "░▒▓ [0x02] Scanning language arsenal ▓▒░"
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: zephir0
+          filename: metrics/languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_colors: "0:#00FF41, 1:#00CC33, 2:#009926, 3:#006619, 4:#00330D, 5:#003B00, 6:#141414, 7:#0d1117"
+          plugin_languages_threshold: 2%
+          config_timezone: Europe/Warsaw
+          extras_css: |
+            * { color: #00FF41 !important; }
+            svg { background-color: #0d1117; }
+
+      # ═══════════════════════════════════════════
+      # [0xACE000] CONTRIBUTION HABITS
+      # ├─ replaces: github-readme-activity-graph
+      # └─ output:   metrics/habits.svg
+      # ═══════════════════════════════════════════
+      - name: "░▒▓ [0x03] Analyzing coding habits ▓▒░"
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: zephir0
+          filename: metrics/habits.svg
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          config_timezone: Europe/Warsaw
+          extras_css: |
+            * { color: #00FF41 !important; }
+            svg { background-color: #0d1117; }
+
+      # ═══════════════════════════════════════════
+      # [0xCAFE00] ISOCALENDAR
+      # ├─ full year contribution heatmap
+      # └─ output:   metrics/isocalendar.svg
+      # ═══════════════════════════════════════════
+      - name: "░▒▓ [0x04] Rendering isocalendar matrix ▓▒░"
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: zephir0
+          filename: metrics/isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          config_timezone: Europe/Warsaw
+          extras_css: |
+            * { color: #00FF41 !important; }
+            svg { background-color: #0d1117; }
