@@ -1,29 +1,349 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=63F73F&center=true&vCenter=true&width=435&height=60&lines=Hi+there!;It's+zephir0;Welcome+to+my+github)](https://git.io/typing-svg)
+<div align="center">
 
-I'm glad you have finally discovered my github profile.<br>
+<!-- ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ -->
+<!-- ░░░░░░░░░░░░░░░ M A T R I X   B O O T ░░░░░░░░░░░░░░░ -->
+<!-- ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ -->
 
+<!-- MATRIX DIGITAL RAIN — HEADER ONLY -->
+<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krystianzzajac) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19756165) 
+<!-- MAIN HEADER — VENOM EFFECT -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000000,30:001a00,60:003300,100:00FF41&text=Z%20E%20P%20H%20I%20R%200&fontSize=80&fontColor=00FF41&animation=scaleIn&fontAlignY=35&desc=%E2%96%88%E2%96%93%E2%96%92%E2%96%91%20SYSTEM%20BREACH%20DETECTED%20%E2%96%91%E2%96%92%E2%96%93%E2%96%88&descSize=14&descAlignY=52&descAlign=50&stroke=00FF41&strokeWidth=1" width="100%"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zephir0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zephir0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zephir0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- TYPING TERMINAL -->
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=%E2%94%8C%E2%94%80%E2%94%80(root%40nebuchadnezzar)%E2%94%80%5B~%5D;%E2%94%94%E2%94%80%24+./breach.sh+--target+mainframe;%E2%96%B6+ACCESS+GRANTED+%E2%94%82+WELCOME+TO+THE+MATRIX" alt="Typing SVG" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zephir0&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zephir0&icon=7&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/krystiannzU) 
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░ IDENTITY MODULE ░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────┐
+│  ▶ LOADING MODULE: identity.daemon                   │
+│  ▶ STATUS: ACTIVE  │  PID: 1337  │  MEM: 42MB       │
+└──────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<img align="right" alt="Matrix Coder" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+```java
+public class Zephir0 extends Developer {
+
+    private final String name     = "Krystian Zając";
+    private final String origin   = "Poland 🇵🇱";
+    private final String role     = "Software Engineer";
+
+    private final String[] languages  = {
+        "Java ☕", "Dart 🎯", "SQL 🗃️", "HTML/CSS 🎨"
+    };
+    private final String[] frameworks = {
+        "Spring Boot 🍃", "Flutter 📱", "Thymeleaf 🌿"
+    };
+    private final String[] databases  = {
+        "PostgreSQL 🐘", "MongoDB 🍃", "MySQL 🐬"
+    };
+    private final String[] devOps     = {
+        "Docker 🐳", "Jenkins 🔧", "Maven 📦"
+    };
+
+    @Override
+    public String getLifeMotto() {
+        return "There is no spoon... only clean code 🥄";
+    }
+
+    public void deployToProduction() {
+        System.out.println("☕ Hold my coffee...");
+        // Works on my machine ¯\_(ツ)_/¯
+    }
+}
+```
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░ NETWORK UPLINK ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+```
+┌──────────────────────────────────────────────────────┐
+│  ▶ ESTABLISHING NETWORK UPLINK...                    │
+│  ▶ NODES: 3  │  ENCRYPTION: AES-256  │  STATUS: OK  │
+└──────────────────────────────────────────────────────┘
+```
+
+<a href="https://linkedin.com/in/krystianzzajac">
+  <img src="https://img.shields.io/badge/-%F0%9F%94%97%20LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://stackoverflow.com/users/19756165">
+  <img src="https://img.shields.io/badge/-%F0%9F%92%A1%20StackOverflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=00FF41&labelColor=0d1117" alt="Stack Overflow"/>
+</a>&nbsp;
+<a href="https://buymeacoffee.com/krystiannzU">
+  <img src="https://img.shields.io/badge/-%E2%98%95%20Buy%20Me%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=00FF41&labelColor=0d1117" alt="BuyMeACoffee"/>
+</a>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░ WEAPONS ARSENAL ░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+```
+┌──────────────────────────────────────────────────────┐
+│  ▶ SCANNING WEAPONS ARSENAL...                       │
+│  ▶ MODULES LOADED: 4  │  THREAT LEVEL: HIGH         │
+└──────────────────────────────────────────────────────┘
+```
+
+<!-- TECH STACK — 2×2 TABLE -->
+<table>
+<tr>
+<td width="50%" align="center">
+
+**`⌨️ CORE::Languages`**
+
+![Java](https://img.shields.io/badge/Java-%2300FF41.svg?style=for-the-badge&logo=openjdk&logoColor=000000)
+![Dart](https://img.shields.io/badge/Dart-%2300FF41.svg?style=for-the-badge&logo=dart&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-%2300FF41.svg?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-%2300FF41.svg?style=for-the-badge&logo=css3&logoColor=000000)
+![SQL](https://img.shields.io/badge/SQL-%2300FF41.svg?style=for-the-badge&logo=postgresql&logoColor=000000)
+
+</td>
+<td width="50%" align="center">
+
+**`🧩 MODULES::Frameworks`**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%23003B00.svg?style=for-the-badge&logo=springboot&logoColor=00FF41)
+![Flutter](https://img.shields.io/badge/Flutter-%23003B00.svg?style=for-the-badge&logo=flutter&logoColor=00FF41)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23003B00.svg?style=for-the-badge&logo=thymeleaf&logoColor=00FF41)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**`🗄️ DATA::Storage`**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23141414.svg?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23141414.svg?style=for-the-badge&logo=mongodb&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-%23141414.svg?style=for-the-badge&logo=mysql&logoColor=00FF41)
+
+</td>
+<td width="50%" align="center">
+
+**`🛠️ OPS::Toolchain`**
+
+![Docker](https://img.shields.io/badge/Docker-%23141414.svg?style=for-the-badge&logo=docker&logoColor=00FF41)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23141414.svg?style=for-the-badge&logo=jenkins&logoColor=00FF41)
+![Maven](https://img.shields.io/badge/Maven-%23141414.svg?style=for-the-badge&logo=apachemaven&logoColor=00FF41)
+![Heroku](https://img.shields.io/badge/Heroku-%23141414.svg?style=for-the-badge&logo=heroku&logoColor=00FF41)
+![Postman](https://img.shields.io/badge/Postman-%23141414.svg?style=for-the-badge&logo=postman&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS_Code-%23141414.svg?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<details>
+<summary>🔓 <code>DECRYPT power_levels.dat</code></summary>
+<br>
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                    POWER LEVEL SCAN                      │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  Java / Spring    ██████████████████████░░░  88%  [MAX]  │
+│  Flutter / Dart   ████████████████░░░░░░░░  64%  [+++]  │
+│  SQL / Databases  ██████████████████████░░░  84%  [MAX]  │
+│  Docker / DevOps  ████████████████░░░░░░░░  64%  [+++]  │
+│  HTML / CSS       ██████████████░░░░░░░░░░  56%  [MID]  │
+│  Git / CI/CD      ██████████████████░░░░░░  72%  [+++]  │
+│                                                          │
+│  OVERALL THREAT LEVEL:  ████████████████████  ▲ HIGH     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+</details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░ SYSTEM TELEMETRY ░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+```
+┌──────────────────────────────────────────────────────┐
+│  ▶ SYSTEM TELEMETRY: REAL-TIME FEED                  │
+│  ▶ UPTIME: 99.9%  │  COMMITS: LOADING...            │
+└──────────────────────────────────────────────────────┘
+```
+
+<!-- STATS SIDE BY SIDE -->
+<a href="https://github.com/zephir0">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zephir0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&ring_color=00FF41&border_color=0d1117" alt="Stats"/>
+</a>
+<a href="https://github.com/zephir0">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephir0&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00FF41&text_color=00FF41&border_color=0d1117&langs_count=8" alt="Top Langs"/>
+</a>
+
+<br>
+
+<!-- STREAK -->
+<a href="https://github.com/zephir0">
+  <img width="70%" src="https://streak-stats.demolab.com?user=zephir0&hide_border=true&background=0d1117&stroke=00FF4100&ring=00FF41&fire=FFFFFF&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=006600&dates=004400" alt="Streak"/>
+</a>
+
+<br>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zephir0&bg_color=0d1117&color=00FF41&line=00FF41&point=FFFFFF&area_color=003300&area=true&hide_border=true&custom_title=%E2%96%B6%20CONTRIBUTION%20FREQUENCY%20ANALYSIS&title_color=00FF41" width="97%" alt="Activity Graph"/>
+
+<br>
+
+<!-- 3D CONTRIBUTION CALENDAR -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zephir0/zephir0/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D Contribution Calendar" src="https://raw.githubusercontent.com/zephir0/zephir0/main/profile-3d-contrib/profile-green-animate.svg" width="97%"/>
+</picture>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░ ACHIEVEMENT SYSTEM ░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+```
+┌──────────────────────────────────────────────────────┐
+│  ▶ ACHIEVEMENT SYSTEM v2.0                           │
+│  ▶ UNLOCKED TROPHIES: LOADING...                     │
+└──────────────────────────────────────────────────────┘
+```
+
+<img src="https://github-profile-trophy.vercel.app/?username=zephir0&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="Trophies"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░ CONTRIBUTION SNAKE ░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+```
+┌──────────────────────────────────────────────────────┐
+│  ▶ EXECUTING: snake.exe --eat-contributions          │
+│  ▶ MODE: AGGRESSIVE  │  TARGET: ALL COMMITS         │
+└──────────────────────────────────────────────────────┘
+```
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zephir0/zephir0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zephir0/zephir0/output/github-snake.svg" />
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/zephir0/zephir0/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░ METRICS DASHBOARD ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+```
+┌──────────────────────────────────────────────────────┐
+│  ▶ METRICS DASHBOARD: ANALYTICS ENGINE               │
+│  ▶ DATA POINTS: AGGREGATING...                       │
+└──────────────────────────────────────────────────────┘
+```
+
+<a href="https://github.com/zephir0">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zephir0&theme=github_dark" width="97%" alt="Profile Details"/>
+</a>
+
+<br>
+
+<a href="https://github.com/zephir0">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zephir0&theme=github_dark" width="32%" alt="Repos per Language"/>
+</a>
+<a href="https://github.com/zephir0">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zephir0&theme=github_dark" width="32%" alt="Most Commit Language"/>
+</a>
+<a href="https://github.com/zephir0">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zephir0&theme=github_dark&utcOffset=1" width="32%" alt="Productive Time"/>
+</a>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░ RANDOM QUOTE ░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+```
+┌──────────────────────────────────────────────────────┐
+│  ▶ /dev/random --quote --source=matrix               │
+└──────────────────────────────────────────────────────┘
+```
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="70%" alt="Random Dev Quote"/>
+
+<br>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░ SESSION FOOTER ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!-- VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=zephir0&style=for-the-badge&color=00FF41&label=SYSTEM+INTRUSIONS" alt="Profile Views"/>
+
+<br>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  > SESSION TERMINATED                                        ║
+║  > Connection logged. Trace erased.                          ║
+║  > "The Matrix is everywhere. It is all around us."          ║
+║  > EOF                                                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:002200,100:00FF41&section=footer&text=Follow%20the%20white%20rabbit%20%F0%9F%90%87&fontSize=16&fontColor=00FF41&fontAlignY=75&animation=twinkling"/>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- HIDDEN MATRIX EASTER EGG                                -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--
+        ╔══════════════════════════════════════════════╗
+        ║                                              ║
+        ║   ███████╗███████╗██████╗ ██╗  ██╗██╗██████╗ ║
+        ║   ╚══███╔╝██╔════╝██╔══██╗██║  ██║██║██╔══██╗║
+        ║     ███╔╝ █████╗  ██████╔╝███████║██║██████╔╝║
+        ║    ███╔╝  ██╔══╝  ██╔═══╝ ██╔══██║██║██╔══██╗║
+        ║   ███████╗███████╗██║     ██║  ██║██║██║  ██║║
+        ║   ╚══════╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝║
+        ║                                              ║
+        ║   🐇 You found the white rabbit!             ║
+        ║   🔑 The Matrix has no bugs, only features.  ║
+        ║                                              ║
+        ╚══════════════════════════════════════════════╝
+-->

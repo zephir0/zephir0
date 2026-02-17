@@ -1,0 +1,30 @@
+name: 3D Contribution Calendar
+
+on:
+  # Runs daily at 1:00 AM UTC
+  schedule:
+    - cron: "0 1 * * *"
+  # Allows manual trigger
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: zephir0
+
+      - name: Commit & Push generated files
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git add -A .
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update 3D contribution calendar" && git push)
