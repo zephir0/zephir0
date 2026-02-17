@@ -195,7 +195,14 @@ public class Zephir0 extends Developer {
 └─ signal: STRONG ─── sync: OK
 ```
 
-<!-- STATS — self-hosted via lowlighter/metrics -->
+<!-- PROFILE CARD — self-hosted via lowlighter/metrics -->
+<a href="https://github.com/zephir0">
+  <img src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/profile-details.svg" width="97%" alt="Profile Details"/>
+</a>
+
+<br>
+
+<!-- STATS + LANGUAGES — self-hosted via lowlighter/metrics -->
 <a href="https://github.com/zephir0">
   <img width="49%" src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/github-stats.svg" alt="Stats"/>
 </a>
@@ -263,36 +270,6 @@ public class Zephir0 extends Developer {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zephir0/zephir0/output/github-snake.svg" />
   <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/zephir0/zephir0/output/github-snake-dark.svg" width="100%"/>
 </picture>
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░ METRICS DASHBOARD ░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-```
-[0xDA7A00] ░▒▓ METRICS DASHBOARD ▓▒░
-├─ engine: analytics v3.1 | mode: deep-scan
-├─ data: ▓▓▓▓▓▓▓▓░░ aggregating...
-└─ visualization: READY
-```
-
-<!-- DASHBOARD CARDS — self-hosted via lowlighter/metrics -->
-<a href="https://github.com/zephir0">
-  <img src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/profile-details.svg" width="97%" alt="Profile Details"/>
-</a>
-
-<br>
-
-<a href="https://github.com/zephir0">
-  <img src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/repos-per-language.svg" width="32%" alt="Repos per Language"/>
-</a>
-<a href="https://github.com/zephir0">
-  <img src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/commit-language.svg" width="32%" alt="Most Commit Language"/>
-</a>
-<a href="https://github.com/zephir0">
-  <img src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/productive-time.svg" width="32%" alt="Productive Time"/>
-</a>
 
 ---
 
