@@ -34,8 +34,6 @@
 
 </div>
 
-<img align="right" alt="Matrix Coder" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ```java
 public class Zephir0 extends Developer {
 
@@ -67,8 +65,6 @@ public class Zephir0 extends Developer {
     }
 }
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -194,13 +190,6 @@ public class Zephir0 extends Developer {
 ├─ commits: ▁▂▃▅▆█▇▅▃▂▁▃▅█ streaming...
 └─ signal: STRONG ─── sync: OK
 ```
-
-<!-- PROFILE CARD — self-hosted via lowlighter/metrics -->
-<a href="https://github.com/zephir0">
-  <img src="https://raw.githubusercontent.com/zephir0/zephir0/main/metrics/profile-details.svg" width="97%" alt="Profile Details"/>
-</a>
-
-<br>
 
 <!-- STATS + LANGUAGES — self-hosted via lowlighter/metrics -->
 <a href="https://github.com/zephir0">
